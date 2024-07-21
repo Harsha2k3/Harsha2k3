@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsha2k3&label=Profile%20views&color=0e75b6&style=flat" alt="harsha2k3" /> </p>
 
-- 🔭 I’m currently working on [Predictive Maintenance](https://github.com/Harsha2k3/predictive_maintenance_ML_Project)
+- 🔭 I’m currently working on [Predictive Maintenance (ML Project)](https://github.com/Harsha2k3/predictive_maintenance_ML_Project)
 
-- 🤝 I’m looking for help with [Predictive Maintenance](https://github.com/Harsha2k3/predictive_maintenance_ML_Project)
+- 🤝 I’m looking for help with [Predictive Maintenance](https://github.com/Harsha2k3/predictive_maintenance_ML_Project) :I need help incorporating Explainable AI features into my project and building a bot for suggestions.
 
 - 💬 Ask me about **Python , Data Structures , OOPS , Machine Learning , SQL , HTML , CSS , Bootstrap , Flask , Streamlit**
 
 - 📫 How to reach me **harshamamidipaka2003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-5HWZn-hogfMM_vMDkC9v3WSO0q8iYaK/view?usp=sharing](https://drive.google.com/file/d/1-5HWZn-hogfMM_vMDkC9v3WSO0q8iYaK/view?usp=sharing)
+- 📄 I would appreciate it if you could take a look at my resume : [Resume](https://drive.google.com/file/d/1-5HWZn-hogfMM_vMDkC9v3WSO0q8iYaK/view?usp=sharing)
 
 - ⚡ Fun fact **When I'm not coding or analyzing data, you can find me solving puzzles, exploring new tech trends.**
 
