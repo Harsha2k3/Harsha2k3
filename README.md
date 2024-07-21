@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **When I'm not coding or analyzing data, you can find me solving puzzles, exploring new tech trends.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> 
 <p align="left">
 <a href="https://linkedin.com/in/sri-harsha-mamidipaka-3a1b30236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sri-harsha-mamidipaka-3a1b30236" height="30" width="40" /></a>
 <a href="https://instagram.com/harshamamidipaka2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshamamidipaka2003" height="30" width="40" /></a>
