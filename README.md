@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SRI HARSHA</h1>
 <h3 align="center">"I'm a passionate and driven student with a deep love for coding, problem-solving, and playing with data to uncover insights and make informed decisions.</h3>
 
-<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif" style="padding-top: 40px;">
+<img align="right" alt="coding" width="300" height="200" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsha2k3&label=Profile%20views&color=0e75b6&style=flat" alt="harsha2k3" /> </p>
