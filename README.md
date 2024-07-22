@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm SRI HARSHA</h1>
 <h3 align="center">"I'm a passionate and driven student with a deep love for coding, problem-solving, and playing with data to uncover insights and make informed decisions.</h3>
 
+<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/ce15ad36-0e00-4570-8e6b-af6661d0d128)">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsha2k3&label=Profile%20views&color=0e75b6&style=flat" alt="harsha2k3" /> </p>
 
 - 🔭 I’m currently working on [Predictive Maintenance (ML Project)](https://github.com/Harsha2k3/predictive_maintenance_ML_Project)
