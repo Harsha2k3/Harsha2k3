@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Predictive Maintenance (ML Project)](https://github.com/Harsha2k3/predictive_maintenance_ML_Project)
 
-- 🤝 I’m looking for help with [Predictive Maintenance (ML Project)](https://github.com/Harsha2k3/predictive_maintenance_ML_Project) : I need help incorporating Explainable AI features into my project and building a bot for suggestions.
+- 🤝 I’m looking for help with [Predictive Maintenance (ML Project)](https://github.com/Harsha2k3/predictive_maintenance_ML_Project) : I need help incorporating more Explainable AI features into my project and building an AI bot for suggestions.
 
 - 💬 Ask me about **Python , Data Structures , OOPS , Machine Learning , SQL , HTML , CSS , Bootstrap , Flask , Streamlit**
 
