@@ -14,7 +14,7 @@
 
 - 📄 I would appreciate it if you could take a look at my resume : [Resume](https://drive.google.com/file/d/1ZQ4XD2h3-DwV2pdXWmNbyHGx92V4HoWA/view?usp=sharing)
 
-- ⚡ Fun fact **When I'm not coding or analyzing data, you can find me solving puzzles, exploring new tech trends.**
+- ⚡ Fun fact: **When I'm not coding or analyzing data, you can find me solving puzzles, exploring new tech trends.**
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
