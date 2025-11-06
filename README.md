@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **harshamamidipaka2003@gmail.com**
 
-- 📄 I would appreciate it if you could take a look at my resume : [Resume](https://drive.google.com/file/d/1ZQ4XD2h3-DwV2pdXWmNbyHGx92V4HoWA/view?usp=sharing)
+- 📄 I would appreciate it if you could take a look at my resume : [Resume](https://drive.google.com/file/d/1NV0LXXVbDYgeOEcGEXVNGX59RBMhgFUr/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
