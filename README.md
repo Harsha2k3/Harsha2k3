@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SRI HARSHA</h1>
-<h3 align="center">"I'm a passionate and driven student with a deep love for coding, problem-solving, and playing with data to uncover insights and make informed decisions.</h3>
+<h3 align="center">I am a passionate and driven data scientist with a strong focus on data exploration, statistical analysis, and building intelligent models to uncover insights and drive impactful, data-backed decisions.</h3>
 
 <img align="right" alt="coding" width="300" height="250" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
 
@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with [Predictive Maintenance (ML Project)](https://github.com/Harsha2k3/predictive_maintenance_ML_Project) : I need help incorporating more Explainable AI features into my project and building an AI bot for suggestions.
 
-- 💬 Ask me about **Python , Data Structures , OOPS , Machine Learning , SQL , HTML , CSS , Bootstrap , Flask , Streamlit**
+- 💬 Ask me about **Python, Machine Learning, NLP, Gen AI, SQL**
 
 - 📫 How to reach me **harshamamidipaka2003@gmail.com**
 
