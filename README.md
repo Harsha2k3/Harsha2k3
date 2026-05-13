@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with [Predictive Maintenance (ML Project)](https://github.com/Harsha2k3/predictive_maintenance_ML_Project) : I need help incorporating more Explainable AI features into my project and building an AI bot for suggestions.
 
-- 💬 Ask me about **Python, Machine Learning, NLP, Gen AI, SQL**
+- 💬 Ask me about **Python, Machine Learning, NLP, Gen AI, Agentic AI**
 
 - 📫 How to reach me **harshamamidipaka2003@gmail.com**
 
